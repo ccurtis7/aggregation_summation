@@ -1,0 +1,2 @@
+## aggregation_summation
+Aggregation_summation is a small analysis package implemented in MatLab to quantify the growth of nanoparticle aggregates as visualized using fluorescence microscopy.  The package relies on the Digital Image Processing toolbox accompaning the book Digital Image Processing Using Matlab (Gonzalez, Woods, Eddins).  As of this moment, they are available to download for free [here](http://imageprocessingplace.com/DIPUM-2E/dipum2e_how_to_order.htm).  
